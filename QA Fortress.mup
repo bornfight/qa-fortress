@@ -1,0 +1,1373 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "TOOLS",
+      "id": 1,
+      "attr": {
+        "position": [
+          -578,
+          -48,
+          1
+        ],
+        "style": {
+          "width": 112.297
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Pingdom",
+          "id": "14.6ff2071067ee11e897719d9683d39eef",
+          "ideas": {
+            "1": {
+              "title": "Website availability  and performances",
+              "id": "15.6ff2071067ee11e897719d9683d39eef",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              123.85937499999932,
+              -384.04453125000043,
+              4
+            ]
+          }
+        },
+        "2": {
+          "title": "Audit Lighthouse",
+          "id": "17.6ff2071067ee11e897719d9683d39eef",
+          "ideas": {
+            "1": {
+              "title": "PWA performance",
+              "id": "18.6ff2071067ee11e897719d9683d39eef",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              195.10937499999932,
+              -294.04453125000043,
+              5
+            ]
+          }
+        },
+        "3": {
+          "title": "Blackfire",
+          "id": "19.6ff2071067ee11e897719d9683d39eef",
+          "ideas": {
+            "1": {
+              "title": "PHP profiler",
+              "id": "20.6ff2071067ee11e897719d9683d39eef",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              200.10937499999932,
+              -219.04453125000055,
+              6
+            ]
+          }
+        },
+        "4": {
+          "title": "Dredd",
+          "id": "22.6ff2071067ee11e897719d9683d39eef",
+          "ideas": {
+            "1": {
+              "title": "DTDD (Documentation- Test-Driven Development",
+              "id": "24.6ff2071067ee11e897719d9683d39eef",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              197.60937499999932,
+              -155.29453125000066,
+              7
+            ]
+          }
+        },
+        "5": {
+          "title": "Kiwi",
+          "id": "28.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Test case management",
+              "id": "29.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              223.85937499999932,
+              7.205468749999227,
+              12
+            ]
+          }
+        },
+        "6": {
+          "title": "Appium",
+          "id": "34.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Mobile automation testing / apps",
+              "id": "35.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              186.35937499999932,
+              62.205468749999,
+              11
+            ]
+          }
+        },
+        "7": {
+          "title": "Sentry",
+          "id": "38.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Error tracking",
+              "id": "39.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              201.35937499999932,
+              118.455468749999,
+              10
+            ]
+          }
+        },
+        "8": {
+          "title": "Apiary",
+          "id": "42.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "API mock testing",
+              "id": "43.57dac47068be11e880952d958924da34",
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              197.60937499999932,
+              172.205468749999,
+              9
+            ]
+          }
+        },
+        "9": {
+          "title": "OWASP ZAP",
+          "id": "47.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Sniffing vulnerability",
+              "id": "48.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              207.60937499999932,
+              235.955468749999,
+              8
+            ]
+          }
+        },
+        "19": {
+          "title": "From official documentation of each tool => create \"local\" documentation for our use",
+          "id": "74.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              321.0273437499991,
+              297.8304687499991,
+              3
+            ]
+          }
+        },
+        "-10": {
+          "title": "Sitespeed.io (with Insights plug-in)",
+          "id": "3.f1f1491067df11e8ba2a7bb04024a5aa",
+          "attr": {
+            "position": [
+              48.5,
+              -113,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Performanse",
+              "id": "7.f1f1491067df11e8ba2a7bb04024a5aa",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "-20": {
+          "title": "Facebook Debugger",
+          "id": "10.f1f1491067df11e8ba2a7bb04024a5aa",
+          "ideas": {
+            "1": {
+              "title": "SM share",
+              "id": "11.f1f1491067df11e8ba2a7bb04024a5aa",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              214.5,
+              -28,
+              2
+            ]
+          }
+        },
+        "-30": {
+          "title": "Screaming Frog SEO Spider",
+          "id": "12.6ff2071067ee11e897719d9683d39eef",
+          "ideas": {
+            "1": {
+              "title": "SEO",
+              "id": "13.6ff2071067ee11e897719d9683d39eef",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "-31": {
+          "title": "Jenkins",
+          "id": "25.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "CI",
+              "id": "27.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "-32": {
+          "title": "Codeception / Selenium",
+          "id": "30.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Acceptance testing / web browser automation",
+              "id": "32.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "-33": {
+          "title": "Prometheus",
+          "id": "36.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Monitoring",
+              "id": "37.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "-34": {
+          "title": "Grafana / Kibana",
+          "id": "40.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "Visualization",
+              "id": "41.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "-35": {
+          "title": "Postman",
+          "id": "45.57dac47068be11e880952d958924da34",
+          "ideas": {
+            "1": {
+              "title": "API calls",
+              "id": "46.57dac47068be11e880952d958924da34",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "HELPY STUFF",
+      "id": "50.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -92,
+          -146,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Awwwards checklist",
+          "id": "51.596e0c60697311e8b0b12b949162e6ed",
+          "ideas": {
+            "1": {
+              "title": "Design oriented website reward criterias",
+              "id": "54.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              154.6093749999991,
+              -84.79453125000055,
+              6
+            ]
+          }
+        },
+        "11": {
+          "title": "Sitebulb",
+          "id": "56.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              111,
+              61,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Website structure visualization and much more",
+              "id": "57.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "21": {
+          "title": "MindMup :)",
+          "id": "59.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              107,
+              144,
+              2
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Mind map",
+              "id": "60.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "31": {
+          "title": "TestNote",
+          "id": "61.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              116,
+              225,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Notes for testers",
+              "id": "62.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "41": {
+          "title": "Ghost browser",
+          "id": "63.596e0c60697311e8b0b12b949162e6ed",
+          "ideas": {
+            "1": {
+              "title": "Season testing browser",
+              "id": "64.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "51": {
+          "title": "AutoIt / Pulover's macro creator / AutoHotkey",
+          "id": "65.596e0c60697311e8b0b12b949162e6ed",
+          "ideas": {
+            "1": {
+              "title": "Hotkey automatization",
+              "id": "66.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "61": {
+          "title": "Bug magnet / Form filler",
+          "id": "68.596e0c60697311e8b0b12b949162e6ed",
+          "ideas": {
+            "1": {
+              "title": "Browser add-ons",
+              "id": "69.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "0.5": {
+          "title": "draw.io",
+          "id": "116.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              167.1093749999991,
+              -179.79453125000043,
+              5
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Diagram modeling",
+              "id": "117.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "QA FORTRESS",
+      "id": "70.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          306,
+          -901,
+          1
+        ],
+        "style": {
+          "width": 504.828,
+          "fontMultiplier": 7.75
+        }
+      }
+    },
+    "4": {
+      "title": "DOCUMENTATION",
+      "id": "75.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -79,
+          614,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Clear and up-to-date documentation",
+          "id": "76.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              166.79687499999932,
+              -68.33750000000032,
+              1
+            ],
+            "style": {
+              "background": "#000080"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Instruction for simple use of tools + additional info for more features",
+              "id": "78.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "position": [
+                  253.5999999999999,
+                  -45.59999999999991,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "\"Simple readme\" file + \"Additional info\" file",
+                  "id": "79.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    },
+                    "position": [
+                      234.20312499999955,
+                      0.3843749999996362,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Defined date for tools update + how to get ready and update instructions",
+              "id": "80.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "position": [
+                  247.80312499999945,
+                  36.384374999999636,
+                  2
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "\"HowToUpdate\" file",
+                  "id": "81.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    },
+                    "position": [
+                      219.20000000000005,
+                      22.399999999999864,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Sync of log file and documentation",
+              "id": "83.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "position": [
+                  235.80312499999945,
+                  140.38437499999964,
+                  3
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "\"ChangeLog\" file",
+                  "id": "84.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    },
+                    "position": [
+                      228.79999999999995,
+                      2.3999999999998636,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "KEEP IN MIND",
+              "id": "85.596e0c60697311e8b0b12b949162e6ed",
+              "attr": {
+                "position": [
+                  239.0031249999995,
+                  225.18437499999936,
+                  4
+                ],
+                "style": {
+                  "background": "#FF0000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Standard (writing)",
+                  "id": "86.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#FF6600"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Flow",
+                  "id": "87.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#FF6600"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Versioning",
+                  "id": "88.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#FF6600"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "Automatization over ad-hoc or exploratory testing?",
+          "id": "89.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              182.4999999999991,
+              299.396874999999,
+              2
+            ],
+            "style": {
+              "background": "#000080"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Segments for test automation?",
+              "id": "90.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Reason why?",
+                  "id": "91.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "position": [
+                      227.28124999999955,
+                      -37.75000000000023,
+                      1
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "What exactly and how? ",
+                  "id": "93.596e0c60697311e8b0b12b949162e6ed"
+                },
+                "3": {
+                  "title": "How is this automation effecting other non - automated segments?",
+                  "id": "95.596e0c60697311e8b0b12b949162e6ed"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "title": "LOGGING AND MONITORING",
+      "id": "96.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -449,
+          535,
+          1
+        ]
+      },
+      "ideas": {
+        "-10": {
+          "title": "Log and report collection is then structured via visualization tool => monitoring",
+          "id": "97.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              292.39062500000045,
+              33.705468749998545,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Logs",
+              "id": "98.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Visualization",
+                  "id": "99.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "title": "Simple new project flow:",
+      "id": "100.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -493,
+          1010,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 1.25,
+          "background": "#333399",
+          "width": 298.5
+        }
+      }
+    },
+    "7": {
+      "title": "Project/ product",
+      "id": "101.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -922,
+          1192,
+          1
+        ],
+        "style": {
+          "background": "#FFCC00"
+        }
+      }
+    },
+    "8": {
+      "title": "Connect tools",
+      "id": "102.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -697,
+          1160,
+          1
+        ],
+        "style": {
+          "background": "#FFCC00"
+        }
+      },
+      "ideas": {
+        "10.5": {
+          "title": "Go for \"local\" documentation to see how",
+          "id": "103.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              105.35937499999977,
+              115.14687499999832,
+              1
+            ]
+          }
+        }
+      }
+    },
+    "9": {
+      "title": "Use helpy stuff to help yourself up :)",
+      "id": "111.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -482,
+          1098,
+          1
+        ],
+        "style": {
+          "background": "#FFFF00"
+        }
+      }
+    },
+    "10": {
+      "title": "Observe and update product / tools / documentation",
+      "id": "113.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          -240.7617187500009,
+          1145.9482421874968,
+          1
+        ],
+        "style": {
+          "background": "#FFCC00",
+          "width": 177.25
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Check logs/ reports through visualization display",
+          "id": "115.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              190.23828124999886,
+              122.44824218749682,
+              1
+            ]
+          }
+        }
+      }
+    },
+    "11": {
+      "title": "In case of report -> react",
+      "id": "114.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          56,
+          1138,
+          1
+        ],
+        "style": {
+          "background": "#FFCC00"
+        }
+      }
+    },
+    "12": {
+      "title": "SUPPORT HQ",
+      "id": "119.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "position": [
+          754,
+          -111,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Security and vulnerability",
+          "id": "121.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              563.5576171874973,
+              -55.55297851562682,
+              9
+            ]
+          },
+          "ideas": {
+            "3": {
+              "title": "Sensitive data exposure",
+              "id": "141.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "style": {
+                  "background": "#800000"
+                },
+                "position": [
+                  224.24999999999955,
+                  -66.50000000000011,
+                  3
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tHash and encrypt\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "142.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tUse SSL protocol\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "143.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSSL striping\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "144.aa67cb206a3511e88af9add84c408854"
+                },
+                "4": {
+                  "title": "HSTS (HTTP Strict Transport Security) Strict-Transport-Security: max-age",
+                  "id": "145.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "4": {
+              "title": "Broken access control",
+              "id": "146.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "position": [
+                  439.24999999999955,
+                  130.9999999999999,
+                  4
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tInsecure Direct Object Reference\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "147.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "Missing Function Level Access Control",
+                  "id": "148.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "Mass assignment (Over posting)",
+                  "id": "149.aa67cb206a3511e88af9add84c408854"
+                },
+                "4": {
+                  "title": "RBAC",
+                  "id": "150.aa67cb206a3511e88af9add84c408854"
+                },
+                "5": {
+                  "title": "Log access control failures",
+                  "id": "151.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "5": {
+              "title": "Security Misconfiguration",
+              "id": "152.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "position": [
+                  753.4999999999991,
+                  280.7499999999998,
+                  5
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tUnnecessary features are enabled (ports, services, pages...)\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "153.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tDefault credentials\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "154.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tError handling stack\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "155.aa67cb206a3511e88af9add84c408854"
+                },
+                "4": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tUsing components with known vulnerabilities\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "156.aa67cb206a3511e88af9add84c408854"
+                },
+                "5": {
+                  "title": "Don’t just copy paste",
+                  "id": "157.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "6": {
+              "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tCSRF - Cross Site Request Forgery\n\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+              "id": "158.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "position": [
+                  547.2499999999991,
+                  526.7499999999997,
+                  6
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nExample URL:\t\t\n\thttp://example.com/transfer?amount=1000000&account=Fred\n",
+                  "id": "159.aa67cb206a3511e88af9add84c408854",
+                  "attr": {
+                    "style": {
+                      "width": 275.75
+                    }
+                  }
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tFaking POST request\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "164.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tCSRF token\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "165.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "7": {
+              "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tXSS - Cross Site Scripting\n\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+              "id": "166.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "position": [
+                  542.2499999999991,
+                  834.7499999999997,
+                  8
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<script>doSomethingVeryEvil();</script>\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "167.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tNon-persistent (reflective) XSS\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "168.aa67cb206a3511e88af9add84c408854",
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tPersistent XSS\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "170.aa67cb206a3511e88af9add84c408854"
+                },
+                "4": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tEscaping\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "171.aa67cb206a3511e88af9add84c408854"
+                },
+                "5": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tBrowser protection (Content Security Policy)\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "172.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "8": {
+              "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tInsufficient Logging &\nMonitoring\n\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+              "id": "173.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "position": [
+                  548.4999999999982,
+                  1076.9482421874986,
+                  9
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tBedrock for nearly every incident\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "174.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tLogs of API and apps are not monitored\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "175.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tFailed logins are not monitored\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "176.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "9": {
+              "title": "Training resources",
+              "id": "177.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "style": {
+                  "background": "#333399"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tBug bounty platforms\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\nhttps://www.hackerone.com/",
+                  "id": "178.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "Common vulnerabilities and exposures https://cve.mitre.org/",
+                  "id": "179.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "Capture the flag https://ctftime.org/",
+                  "id": "180.aa67cb206a3511e88af9add84c408854"
+                },
+                "4": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tWebGoat & WebWolf project\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "181.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            },
+            "2.5": {
+              "title": "Injections",
+              "id": "122.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSQL, NoSQL, OS\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\n",
+                  "id": "130.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSELECT * FROM user WHERE username = ‘Mirko’ OR 1=1\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "160.aa67cb206a3511e88af9add84c408854"
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tEasy to detect with static analysis tools\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "161.aa67cb206a3511e88af9add84c408854",
+                  "ideas": {}
+                },
+                "4": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tPrepared statements, whitelist user input, escaping\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "163.aa67cb206a3511e88af9add84c408854"
+                }
+              },
+              "attr": {
+                "position": [
+                  167.24999999999932,
+                  -468.7499999999999,
+                  7
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              }
+            },
+            "2.75": {
+              "title": "Broken Authentication",
+              "id": "132.aa67cb206a3511e88af9add84c408854",
+              "attr": {
+                "position": [
+                  457.99999999999955,
+                  -200.453125,
+                  2
+                ],
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tCredentials stuffing\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "133.aa67cb206a3511e88af9add84c408854"
+                },
+                "2": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tInsecure password recovery\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "134.aa67cb206a3511e88af9add84c408854",
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tMissing multi factor auth\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "136.aa67cb206a3511e88af9add84c408854"
+                },
+                "4": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSession timeout isn’t set properly\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "138.aa67cb206a3511e88af9add84c408854"
+                },
+                "5": {
+                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tWeak password protection\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "id": "139.aa67cb206a3511e88af9add84c408854"
+                },
+                "6": {
+                  "title": "Disallow email as user identification",
+                  "id": "140.aa67cb206a3511e88af9add84c408854"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "Accessibility",
+          "id": "124.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              200.24999999999955,
+              92.99999999999989,
+              8
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "https://docs.google.com/document/d/1zLeyM5vm1vYgZ9oLAfhtTgQSZtUv8gHoFsKUj-OTOtk/edit",
+              "id": "125.596e0c60697311e8b0b12b949162e6ed"
+            }
+          }
+        },
+        "21": {
+          "title": "Blockchain",
+          "id": "126.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              188.99999999999955,
+              182.99999999999977,
+              7
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Smart contracts and TODO",
+              "id": "127.596e0c60697311e8b0b12b949162e6ed"
+            }
+          }
+        },
+        "31": {
+          "title": "Types of testing approaches",
+          "id": "128.596e0c60697311e8b0b12b949162e6ed",
+          "attr": {
+            "position": [
+              113.99999999999955,
+              272.9999999999998,
+              6
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "https://docs.google.com/spreadsheets/d/1pBx5GVdU08WgqkFdxSwlHzpEs4Ok-rYyHtbq_byiQSk/edit?usp=sharing",
+              "id": "129.596e0c60697311e8b0b12b949162e6ed"
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "TOOLS",
+  "links": [
+    {
+      "ideaIdFrom": 1,
+      "ideaIdTo": "50.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "74.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "75.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "75.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "96.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "101.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "102.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "102.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "111.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "111.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "113.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "113.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "114.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "50.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "119.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    }
+  ]
+}
