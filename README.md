@@ -8,8 +8,7 @@ Here are some links:
 
 * Types of testing approaches - [sheet file](https://docs.google.com/spreadsheets/d/1pBx5GVdU08WgqkFdxSwlHzpEs4Ok-rYyHtbq_byiQSk/edit?usp=sharing)
 
-![Mind map]
-(https://ibb.co/fFUok8)
+![Mind map](QA%20Fortress%20mind%20map.png)
 
 ### TODO
 
