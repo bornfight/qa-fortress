@@ -18,7 +18,7 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated type structu
 
 * 'Local documentation' - extract from official documentation on choosen tool; simple and additional usage explanation for easier ongoing use of choosen tool.
 
-* 'Support HQ' - "branches" that go beyonde QA fields, but from where trunk stands. :palm_tree:
+* 'Support HQ' - "branches" that go beyonde QA fields, but from where the trunk stands. :palm_tree:
 
 ![Mind map](QA%20Fortress%20mind%20map.png)
 
