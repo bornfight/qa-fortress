@@ -1,6 +1,6 @@
 # qa-fortress
 
-Idea of Quality Assurance Fortress is to set (potentialy) automated type structure of testing tools covered with up to date documentation.
+Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source type structure of testing tools covered with up to date documentation.
 
 ***Here are some links:***
 
