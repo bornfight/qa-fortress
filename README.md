@@ -20,4 +20,4 @@ Here are some links:
 - [x] Add security, blockchain and testing approache components to mind map
 
 Please feel free to contribute! :blush: 
-
+:point_right: [Contribute guidelines](https://github.com/degordian/qa-fortress/blob/master/docs/CONTRIBUTING.md)
