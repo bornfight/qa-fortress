@@ -14,11 +14,11 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated type structu
 :point_right: [Contribute guidelines](https://github.com/degordian/qa-fortress/blob/master/docs/CONTRIBUTING.md)
 
 ***Mental map nodes explained:***
-* 'Helpy stuff' - additional (mostly free) tools and accessories that can help you out in your testing environment (difference between them and "TOOLS" node is that "Heply stuff" has more subjective usage than objective).
+* 'Helpy stuff' - additional (mostly free) tools and accessories that can help you out in your testing environment (difference between them and "TOOLS" node is that "Helpy stuff" has more subjective usage than objective).
 
 * 'Local documentation' - extract from official documentation on choosen tool; creating through this approach simple and additional usage files for easier ongoing use of choosen tool.
 
-* 'Support HQ' - "branches" that go beyonde QA fields, but from where the trunk stands. :palm_tree:
+* 'Support HQ' - "branches" that go beyond QA fields, but from where the trunk stands. :palm_tree:
 
 ![Mind map](QA%20Fortress%20mind%20map.png)
 
@@ -27,4 +27,4 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated type structu
 - [ ] Arrange project inside robust test management tool or on presentation website with advanced search, or...
 - [ ] Create/ extract 'local' documentation
 - [x] Update mind map png file on [MindMup](https://www.mindmup.com/)
-- [x] Add security, blockchain and testing approache components to mind map
+- [x] Add security, blockchain and testing approach components to mind map
