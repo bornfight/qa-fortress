@@ -27,6 +27,6 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source
 ### TODO
 
 - [ ] Arrange project inside robust test management tool or on presentation website with advanced search, or...
-- [ ] Create/ extract 'local' documentation
+- [ ] Create/ extract 'local' documentation - :construction: work in progress :construction:
 - [x] Update mind map png file on [MindMup](https://www.mindmup.com/)
 - [x] Add security, blockchain and testing approach components to mind map
