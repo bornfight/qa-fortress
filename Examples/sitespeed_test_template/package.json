@@ -1,0 +1,8 @@
+{
+  "name": "QA-Fortress-sitespeed",
+  "description": "Sitespeed",
+  "version": "0.0.1",
+  "dependencies": {
+    "@sitespeed.io/plugin-gpsi": "git+https://github.com/sitespeedio/plugin-gpsi.git"
+  }
+}
