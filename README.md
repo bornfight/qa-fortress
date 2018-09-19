@@ -10,6 +10,8 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source
 
 * Mindpmup original file (with links available) - [mindmup file](https://atlas.mindmup.com/degordianqa/qa_fortress/index.html)
 
+* Local documentation - [directory](https://github.com/degordian/qa-fortress/tree/master/localDocs)
+
 ***Please feel free to contribute!*** :blush: 
 :point_right: [Contribute guidelines](https://github.com/degordian/qa-fortress/blob/master/docs/CONTRIBUTING.md)
 
