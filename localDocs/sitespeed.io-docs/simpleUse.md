@@ -13,9 +13,11 @@ What things you need to install the tool and how to install them:
 Sitespeed.io runs inside ***Docker container***, so you need Docker to get into this environment:
 1. Latest version of Docker - [get it from here](https://docs.docker.com/install/):
 * Choose OS that you use from navigation bar and scrool to part saying "Install and run Docker for Mac/ Windows/ Linux".
-* Fallow instructions on 'how to install' on Docker page depending on OS that you choose.
+* Follow instructions on 'how to install' on Docker page depending on OS that you choose.
 
-2. Download my example of ***'sitespeed test template'*** that has everything set up from [here]().
+2. Clone this repository - `git clone git@github.com:degordian/qa-fortress.git`
+
+3. Place yourself in `qa-fortress/Examples/sitespeed_test_template/` folder and run `npm install` to install dependencies (actually just gpsi plug-in that's explained below). Plugin is gonna be places inside `./node_modules/@sitespeed.io/plugin-gpsi` directory.
 
 ### Installing
 If you use ***macOS***:
@@ -42,7 +44,7 @@ Where:
 
 `"$(pwd)"` - as if current directory (print current directory command).
 
-`plugins.add plugin-gpsi --gpsi.key your_API_key` (choosen plugin and API key), see how to find your API here in above description.
+`plugins.add node_modules/@sitespeed.io/plugin-gpsi --gpsi.key your_API_key` - choosen plugin, it's directory location, and API key. See how to find your API here in above description.
 
 `https://cultofthepartyparrot.com/` - or any other `URL` of website of you choose - here you place `URL` of website you would like to ***test for performance***.
 
