@@ -1,6 +1,6 @@
 # qa-fortress
 
-Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source type structure of testing tools covered with up to date documentation.
+Idea of Quality Assurance Fortress is to set (potentially) automated, open-source type structure of testing tools covered with up to date documentation.
 
 ***Here are some links:***
 
@@ -18,7 +18,7 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source
 ***Mental map nodes explained:***
 * 'Helpy stuff' - additional (mostly free) tools and accessories that can help you out in your testing environment (difference between them and "TOOLS" node is that "Helpy stuff" has more subjective usage than objective).
 
-* 'Local documentation' - extract from official documentation on choosen tool; creating through this approach simple and additional usage files for easier ongoing use of choosen tool.
+* 'Local documentation' - extract from official documentation on chosen tool; creating through this approach simple and additional usage files for easier ongoing use of chosen tool.
 
 * 'Support HQ' - "branches" that go beyond QA fields, but from where the trunk stands. :palm_tree:
 
