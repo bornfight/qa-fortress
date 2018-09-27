@@ -5,6 +5,7 @@
   - Update current structure template
   - Add to current structure template
   - Restructure template
+  - Local documentation issues
 - Pull request
 - Contact me directly - vanja.zunic@bornfight.com
 
