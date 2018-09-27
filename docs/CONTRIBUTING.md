@@ -6,6 +6,6 @@
   - Add to current structure template
   - Restructure template
 - Pull request
-- Contact me directly - vanja.zunic@degordian.com
+- Contact me directly - vanja.zunic@bornfight.com
 
 I'm always happy when I see someone new around project. :sunflower:
