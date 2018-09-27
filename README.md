@@ -22,7 +22,7 @@ Idea of Quality Assurance Fortress is to set (potentially) automated, open-sourc
 
 * 'Support HQ' - "branches" that go beyond QA fields, but from where the trunk stands. :palm_tree:
 
-![Mind map](QA%20Fortress%20mind%20map.png)
+![Mind map](QA_Fortress_mind_map.png)
 
 ### TODO
 
