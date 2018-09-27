@@ -88,5 +88,5 @@ So directory structure is like this (for our example):
 
 ***Happy testing folks!***
 
-Please contact me in case of any misunderstanding - vanja.zunic@degordian.com / zunicc@gmail.com
+Please contact me in case of any misunderstanding - vanja.zunic@bornfight.com / zunicc@gmail.com
 
