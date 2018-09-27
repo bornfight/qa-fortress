@@ -12,10 +12,12 @@ What things you need to install the tool and how to install them:
 
 Sitespeed.io runs inside ***Docker container***, so you need Docker to get into this environment:
 1. Latest version of Docker - [get it from here](https://docs.docker.com/install/):
-* Choose OS that you use from navigation bar and scrool to part saying "Install and run Docker for Mac/ Windows/ Linux".
-* Fallow instructions on 'how to install' on Docker page depending on OS that you choose.
+* Choose OS that you use from navigation bar and scroll to part saying "Install and run Docker for Mac/ Windows/ Linux".
+* Follow instructions on 'how to install' on Docker page depending on OS that you choose.
 
-2. Download my example of ***'sitespeed test template'*** that has everything set up from [here]().
+2. Clone this repository - `git clone git@github.com:degordian/qa-fortress.git`
+
+3. Place yourself in `qa-fortress/Examples/sitespeed_test_template/` folder and run `npm install` to install dependencies (actually just gpsi plug-in that's explained below). Plugin is gonna be placed inside `./node_modules/@sitespeed.io/plugin-gpsi` directory.
 
 ### Installing
 If you use ***macOS***:
@@ -28,7 +30,7 @@ If you use ***macOS***:
 
 You need to place you API key inside CLI call that we'r gonna discuss after this. Read how to find you gpsi key from Google [here](https://cloud.google.com/docs/authentication/api-keys?visit_id=636729451490184021-594932787&rd=1).
 
-* `runSitespeed.sh` - CLI (command language interpreter) script; with instructions for sitespeed.io on how to run performace tests on you website:
+* `runSitespeed.sh` - CLI (command language interpreter) script; with instructions for sitespeed.io on how to run performance tests on you website:
 
 `docker run --shm-size=1g --rm -v "$(pwd)":/sitespeed.io sitespeedio/sitespeed.io ‘URL’` (***simplest way***)
 
@@ -42,7 +44,7 @@ Where:
 
 `"$(pwd)"` - as if current directory (print current directory command).
 
-`plugins.add plugin-gpsi --gpsi.key your_API_key` (choosen plugin and API key), see how to find your API here in above description.
+`plugins.add node_modules/@sitespeed.io/plugin-gpsi --gpsi.key your_API_key` - chosen plugin, it's directory location, and API key. See how to find your API here in above description.
 
 `https://cultofthepartyparrot.com/` - or any other `URL` of website of you choose - here you place `URL` of website you would like to ***test for performance***.
 
@@ -75,16 +77,16 @@ For example:
 ## How to run
 Example from macOS machine:
 1. Place yourself inside `Sitespeed test template` folder and run command `sh runSitespeed.sh` (I'm using bash shell inside tool iTerm2).
-2. Wait for some time depending on parametars `n` and `d` inside your script.
+2. Wait for some time depending on parameters `n` and `d` inside your script.
 3. That's it. :)
 
-Now you can see generated folder called `sitespeed-result` inside folder you were placed before executing script, and inside is another folder called after `URL` choosen in your performance test, with metrics and results in HTML format, with all data nicely visualized. :) 
-For every new execution of script you will get new folders named after URLs and time when it was finnished.
+Now you can see generated folder called `sitespeed-result` inside folder you were placed before executing script, and inside is another folder called after `URL` chosen in your performance test, with metrics and results in HTML format, with all data nicely visualized. :) 
+For every new execution of script you will get new folders named after URLs and time when it was finished.
 
 So directory structure is like this (for our example):
 `Sitespeed test template` folder -> `sitespeed result` folder -> folder named after `URL/URLs` -> folder named after `time and date` of execution -> result of performace test `(HTML files)`, `junit.xml` as in Jenkins file, `Data` folder with all metrics, and so on.
 
 ***Happy testing folks!***
 
-Please contact me in case of any misunderstanding - vanja.zunic@degordian.com / zunicc@gmail.com
+Please contact me in case of any misunderstanding - vanja.zunic@bornfight.com / zunicc@gmail.com
 

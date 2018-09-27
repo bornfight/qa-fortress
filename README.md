@@ -1,6 +1,6 @@
 # qa-fortress
 
-Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source type structure of testing tools covered with up to date documentation.
+Idea of Quality Assurance Fortress is to set (potentially) automated, open-source type structure of testing tools covered with up to date documentation.
 
 ***Here are some links:***
 
@@ -10,13 +10,15 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source
 
 * Mindpmup original file (with links available) - [mindmup file](https://atlas.mindmup.com/degordianqa/qa_fortress/index.html)
 
+* Local documentation - [directory](https://github.com/degordian/qa-fortress/tree/master/localDocs)
+
 ***Please feel free to contribute!*** :blush: 
 :point_right: [Contribute guidelines](https://github.com/degordian/qa-fortress/blob/master/docs/CONTRIBUTING.md)
 
 ***Mental map nodes explained:***
 * 'Helpy stuff' - additional (mostly free) tools and accessories that can help you out in your testing environment (difference between them and "TOOLS" node is that "Helpy stuff" has more subjective usage than objective).
 
-* 'Local documentation' - extract from official documentation on choosen tool; creating through this approach simple and additional usage files for easier ongoing use of choosen tool.
+* 'Local documentation' - extract from official documentation on chosen tool; creating through this approach simple and additional usage files for easier ongoing use of chosen tool.
 
 * 'Support HQ' - "branches" that go beyond QA fields, but from where the trunk stands. :palm_tree:
 
@@ -25,6 +27,6 @@ Idea of Quality Assurance Fortress is to set (potentialy) automated, open-source
 ### TODO
 
 - [ ] Arrange project inside robust test management tool or on presentation website with advanced search, or...
-- [ ] Create/ extract 'local' documentation
+- [ ] Create/ extract 'local' documentation - :construction: work in progress :construction:
 - [x] Update mind map png file on [MindMup](https://www.mindmup.com/)
 - [x] Add security, blockchain and testing approach components to mind map
