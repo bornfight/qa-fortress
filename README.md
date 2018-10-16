@@ -9,7 +9,9 @@ Idea of Quality Assurance Fortress is to set (potentially) automated, open-sourc
 * Types of testing approaches - [sheet file](https://docs.google.com/spreadsheets/d/1pBx5GVdU08WgqkFdxSwlHzpEs4Ok-rYyHtbq_byiQSk/edit?usp=sharing)
 
 * Mindpmup original file (with links available) - [mindmup file](https://atlas.mindmup.com/degordianqa/qa_fortress/index.html)
-*How to "mind map":*
+
+**How to "mind map":**
+
 Just double click on node to see more and vice versa to retract. :mag:
 
 * Local documentation - [directory](https://github.com/degordian/qa-fortress/tree/master/localDocs)
