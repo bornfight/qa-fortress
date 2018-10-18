@@ -4,7 +4,7 @@ Idea of Quality Assurance Fortress is to set (potentially) automated, open-sourc
 
 ***Here are some links:***
 
-* Initial papers - [doc file](https://docs.google.com/document/d/1xOxVAY6QLKMddnGBApYQdoiHpAf2g4mUwWk3Ibrwkpg/edit?usp=sharing)
+* Initial papers - [doc file](https://docs.google.com/document/d/1xOxVAY6QLKMddnGBApYQdoiHpAf2g4mUwWk3Ibrwkpg/edit?usp=sharing) (Here is a preview of all my note-taking's while working, which are being later on implemented into QA Fortress project with note about each action inside [changelog.md](https://github.com/degordian/qa-fortress/blob/master/changelog.md) file)
 
 * Types of testing approaches - [sheet file](https://docs.google.com/spreadsheets/d/1pBx5GVdU08WgqkFdxSwlHzpEs4Ok-rYyHtbq_byiQSk/edit?usp=sharing)
 
