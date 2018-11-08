@@ -27,7 +27,7 @@ Just double click on node to see more and vice versa to retract. :mag:
 * 'Support HQ' - "branches" that go beyond QA fields, but from where the trunk stands. :palm_tree:
 
 ![Mind map](QA_Fortress_mind_map.png)
-*preview for fully expanded mental map.
+*preview for fully expanded mental map (without grouping).
 
 ### TODO
 
