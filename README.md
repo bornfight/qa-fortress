@@ -35,3 +35,5 @@ Just double click on node to see more and vice versa to retract. :mag:
 - [ ] Create/ extract 'local' documentation - :construction: work in progress :construction:
 - [x] Update mind map png file on [MindMup](https://www.mindmup.com/)
 - [x] Add security, blockchain and testing approach components to mind map
+
+More inside - [Kanban project list](https://github.com/degordian/qa-fortress/projects/1)
