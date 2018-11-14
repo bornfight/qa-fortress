@@ -7,212 +7,157 @@
       "id": 1,
       "attr": {
         "position": [
-          -578,
-          -48,
+          -653,
+          291,
           1
         ],
         "style": {
-          "width": 112.297
-        }
+          "width": 112.297,
+          "textAlign": "center",
+          "fontMultiplier": 1.75
+        },
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ]
       },
       "ideas": {
-        "1": {
-          "title": "Pingdom",
-          "id": "14.6ff2071067ee11e897719d9683d39eef",
-          "ideas": {
-            "1": {
-              "title": "Website availability  and performances",
-              "id": "15.6ff2071067ee11e897719d9683d39eef",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              123.85937499999932,
-              -384.04453125000043,
-              4
-            ]
-          }
-        },
-        "2": {
-          "title": "Audit Lighthouse",
-          "id": "17.6ff2071067ee11e897719d9683d39eef",
-          "ideas": {
-            "1": {
-              "title": "PWA performance",
-              "id": "18.6ff2071067ee11e897719d9683d39eef",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              195.10937499999932,
-              -294.04453125000043,
-              5
-            ]
-          }
-        },
-        "3": {
-          "title": "Blackfire",
-          "id": "19.6ff2071067ee11e897719d9683d39eef",
-          "ideas": {
-            "1": {
-              "title": "PHP profiler",
-              "id": "20.6ff2071067ee11e897719d9683d39eef",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              200.10937499999932,
-              -219.04453125000055,
-              6
-            ]
-          }
-        },
         "4": {
-          "title": "Dredd",
-          "id": "22.6ff2071067ee11e897719d9683d39eef",
+          "title": "#FRAMEWORK",
+          "id": "307.38162d80cc8e11e8be8d2d25bf573242",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              26.687499999999773,
+              -325.8125000000007,
+              33
+            ],
+            "collapsed": true
+          },
           "ideas": {
             "1": {
-              "title": "DTDD (Documentation- Test-Driven Development",
-              "id": "24.6ff2071067ee11e897719d9683d39eef",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Appium",
+              "id": "34.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Mobile automation testing / apps",
+                  "id": "35.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://appium.io/",
+                  "id": "233.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Codeception / Selenium",
+              "id": "30.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Acceptance testing / web browser automation",
+                  "id": "32.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://codeception.com/",
+                  "id": "245.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "https://www.seleniumhq.org/",
+                  "id": "246.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Selenium Grid",
+                  "id": "247.622fedc0bcb911e8ab361dd499b37049",
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.seleniumhq.org/docs/07_selenium_grid.jsp",
+                      "id": "248.622fedc0bcb911e8ab361dd499b37049",
+                      "attr": {
+                        "style": {
+                          "background": "#FFFF00"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Selenium-Grid allows you run your tests on different machines against different browsers in parallel",
+                      "id": "249.622fedc0bcb911e8ab361dd499b37049",
+                      "attr": {
+                        "style": {
+                          "background": "#008080"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
+                },
+                "5": {
+                  "title": "Selenium IDE",
+                  "id": "221.622fedc0bcb911e8ab361dd499b37049",
+                  "ideas": {
+                    "1": {
+                      "title": "Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver.",
+                      "id": "222.622fedc0bcb911e8ab361dd499b37049",
+                      "attr": {
+                        "style": {
+                          "background": "#008080"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?hl=en",
+                      "id": "271.472f6850c23311e8ba32e1f1c77c1688",
+                      "attr": {
+                        "style": {
+                          "background": "#FFFF00"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
-          },
-          "attr": {
-            "position": [
-              197.60937499999932,
-              -155.29453125000066,
-              7
-            ]
-          }
-        },
-        "5": {
-          "title": "Kiwi",
-          "id": "28.57dac47068be11e880952d958924da34",
-          "ideas": {
-            "1": {
-              "title": "Test case management",
-              "id": "29.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              223.85937499999932,
-              7.205468749999227,
-              12
-            ]
-          }
-        },
-        "6": {
-          "title": "Appium",
-          "id": "34.57dac47068be11e880952d958924da34",
-          "ideas": {
-            "1": {
-              "title": "Mobile automation testing / apps",
-              "id": "35.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              186.35937499999932,
-              62.205468749999,
-              11
-            ]
-          }
-        },
-        "7": {
-          "title": "Sentry",
-          "id": "38.57dac47068be11e880952d958924da34",
-          "ideas": {
-            "1": {
-              "title": "Error tracking",
-              "id": "39.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              201.35937499999932,
-              118.455468749999,
-              10
-            ]
-          }
-        },
-        "8": {
-          "title": "Apiary",
-          "id": "42.57dac47068be11e880952d958924da34",
-          "ideas": {
-            "1": {
-              "title": "API mock testing",
-              "id": "43.57dac47068be11e880952d958924da34",
-              "ideas": {},
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              197.60937499999932,
-              172.205468749999,
-              9
-            ]
-          }
-        },
-        "9": {
-          "title": "OWASP ZAP",
-          "id": "47.57dac47068be11e880952d958924da34",
-          "ideas": {
-            "1": {
-              "title": "Sniffing vulnerability",
-              "id": "48.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              207.60937499999932,
-              235.955468749999,
-              8
-            ]
           }
         },
         "19": {
@@ -220,141 +165,871 @@
           "id": "74.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              321.0273437499991,
-              297.8304687499991,
-              3
+              392.82641601562227,
+              299,
+              37
             ]
           }
         },
-        "-10": {
-          "title": "Sitespeed.io (with Insights plug-in)",
-          "id": "3.f1f1491067df11e8ba2a7bb04024a5aa",
+        "55": {
+          "title": "#CI",
+          "id": "314.38162d80cc8e11e8be8d2d25bf573242",
           "attr": {
             "position": [
-              48.5,
-              -113,
-              1
-            ]
+              159.49999999999977,
+              435.12499999999886,
+              36
+            ],
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
-              "title": "Performanse",
-              "id": "7.f1f1491067df11e8ba2a7bb04024a5aa",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Jenkins",
+              "id": "25.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "CI",
+                  "id": "27.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://jenkins.io/",
+                  "id": "244.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
-        "-20": {
-          "title": "Facebook Debugger",
-          "id": "10.f1f1491067df11e8ba2a7bb04024a5aa",
-          "ideas": {
-            "1": {
-              "title": "SM share",
-              "id": "11.f1f1491067df11e8ba2a7bb04024a5aa",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
+        "-15": {
+          "title": "#MAINTENANCE / MONITORING",
+          "id": "305.38162d80cc8e11e8be8d2d25bf573242",
           "attr": {
+            "style": {
+              "fontMultiplier": 1.5,
+              "background": "#000080"
+            },
             "position": [
-              214.5,
-              -28,
-              2
-            ]
-          }
-        },
-        "-30": {
-          "title": "Screaming Frog SEO Spider",
-          "id": "12.6ff2071067ee11e897719d9683d39eef",
+              177.75,
+              -153.9375000000009,
+              27
+            ],
+            "collapsed": true
+          },
           "ideas": {
             "1": {
-              "title": "SEO",
-              "id": "13.6ff2071067ee11e897719d9683d39eef",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Pingdom",
+              "id": "14.6ff2071067ee11e897719d9683d39eef",
+              "ideas": {
+                "1": {
+                  "title": "Website availability  and performances",
+                  "id": "15.6ff2071067ee11e897719d9683d39eef",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.pingdom.com/",
+                  "id": "228.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Blackfire",
+              "id": "19.6ff2071067ee11e897719d9683d39eef",
+              "ideas": {
+                "1": {
+                  "title": "PHP profiler",
+                  "id": "20.6ff2071067ee11e897719d9683d39eef",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://blackfire.io/",
+                  "id": "230.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "Audit Lighthouse",
+              "id": "17.6ff2071067ee11e897719d9683d39eef",
+              "ideas": {
+                "1": {
+                  "title": "PWA performance",
+                  "id": "18.6ff2071067ee11e897719d9683d39eef",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://developers.google.com/web/tools/lighthouse/",
+                  "id": "229.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "4": {
+              "title": "Prometheus",
+              "id": "36.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Monitoring",
+                  "id": "37.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://prometheus.io/",
+                  "id": "252.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "5": {
+              "title": "Sentry",
+              "id": "38.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Error tracking",
+                  "id": "39.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://sentry.io/welcome/",
+                  "id": "234.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "6": {
+              "title": "Bugherd",
+              "id": "182.c8b5e4e0837b11e88bb0c7a40504bfca",
+              "ideas": {
+                "1": {
+                  "title": "Bug and issue tracker",
+                  "id": "183.c8b5e4e0837b11e88bb0c7a40504bfca",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://bugherd.com/",
+                  "id": "257.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "7": {
+              "title": "Hotjar",
+              "id": "184.c8b5e4e0837b11e88bb0c7a40504bfca",
+              "ideas": {
+                "2": {
+                  "title": "Analytics & feedback",
+                  "id": "195.9f195ee0838111e8a20abd0f231d905c",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "https://www.hotjar.com/",
+                  "id": "258.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
-        "-31": {
-          "title": "Jenkins",
-          "id": "25.57dac47068be11e880952d958924da34",
+        "6.5": {
+          "title": "#MANAGEMENT",
+          "id": "309.38162d80cc8e11e8be8d2d25bf573242",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              196.99999999999977,
+              -172.68750000000068,
+              32
+            ],
+            "collapsed": true
+          },
           "ideas": {
             "1": {
-              "title": "CI",
-              "id": "27.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Dredd",
+              "id": "22.6ff2071067ee11e897719d9683d39eef",
+              "ideas": {
+                "1": {
+                  "title": "DTDD (Documentation- Test-Driven Development",
+                  "id": "24.6ff2071067ee11e897719d9683d39eef",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://dredd.readthedocs.io/en/latest/",
+                  "id": "231.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Kiwi",
+              "id": "28.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Test case management",
+                  "id": "29.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://kiwitcms.readthedocs.io/en/latest/about.html",
+                  "id": "232.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 2
+                    }
+                  }
+                ],
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "Grafana / Kibana",
+              "id": "40.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Visualization",
+                  "id": "41.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://grafana.com/",
+                  "id": "253.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "https://www.elastic.co/products/kibana",
+                  "id": "255.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "4": {
+              "title": "Zeplin",
+              "id": "191.c8b5e4e0837b11e88bb0c7a40504bfca",
+              "ideas": {
+                "1": {
+                  "title": "Collaboration tool between designers and developers",
+                  "id": "192.c8b5e4e0837b11e88bb0c7a40504bfca",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://zeplin.io/",
+                  "id": "297.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
-        "-32": {
-          "title": "Codeception / Selenium",
-          "id": "30.57dac47068be11e880952d958924da34",
+        "-32.5": {
+          "title": "#SECURITY",
+          "id": "312.38162d80cc8e11e8be8d2d25bf573242",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              233.625,
+              213.24999999999886,
+              30
+            ],
+            "collapsed": true
+          },
           "ideas": {
             "1": {
-              "title": "Acceptance testing / web browser automation",
-              "id": "32.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "OWASP ZAP",
+              "id": "47.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "Sniffing vulnerability",
+                  "id": "48.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection",
+                  "id": "236.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
-              }
-            }
-          }
-        },
-        "-33": {
-          "title": "Prometheus",
-          "id": "36.57dac47068be11e880952d958924da34",
-          "ideas": {
-            "1": {
-              "title": "Monitoring",
-              "id": "37.57dac47068be11e880952d958924da34",
+              },
               "attr": {
-                "style": {
-                  "background": "#008080"
-                }
+                "collapsed": true
               }
             }
           }
         },
         "-34": {
-          "title": "Grafana / Kibana",
-          "id": "40.57dac47068be11e880952d958924da34",
+          "title": "#PERFORMANCE",
+          "id": "313.38162d80cc8e11e8be8d2d25bf573242",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              218.4375,
+              400.74999999999886,
+              34
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "2": {
+              "title": "Facebook Debugger",
+              "id": "10.f1f1491067df11e8ba2a7bb04024a5aa",
+              "ideas": {
+                "1": {
+                  "title": "SM share",
+                  "id": "11.f1f1491067df11e8ba2a7bb04024a5aa",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://developers.facebook.com/tools/debug/",
+                  "id": "242.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Sitespeed.io (with Insights plug-in)",
+              "id": "3.f1f1491067df11e8ba2a7bb04024a5aa",
+              "ideas": {
+                "1": {
+                  "title": "Performance",
+                  "id": "7.f1f1491067df11e8ba2a7bb04024a5aa",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://github.com/degordian/qa-fortress/tree/master/localDocs/sitespeed.io-docs",
+                  "id": "203.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#800080"
+                    }
+                  },
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "https://www.sitespeed.io/",
+                  "id": "240.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "ApacheBench",
+              "id": "207.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "Single-threaded command line computer program for measuring the performance of HTTP web servers",
+                  "id": "208.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://httpd.apache.org/docs/2.4/programs/ab.html",
+                  "id": "260.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "5": {
+              "title": "aXe",
+              "id": "193.c8b5e4e0837b11e88bb0c7a40504bfca",
+              "ideas": {
+                "1": {
+                  "title": "Accessibility testing in Chrome Developer Tools",
+                  "id": "194.c8b5e4e0837b11e88bb0c7a40504bfca",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd",
+                  "id": "298.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "6": {
+              "title": "Lighthouse Audit",
+              "id": "317.55bd8a30d13f11e89cd6b346a4103040",
+              "ideas": {
+                "1": {
+                  "title": "https://developers.google.com/web/tools/lighthouse/",
+                  "id": "318.55bd8a30d13f11e89cd6b346a4103040",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Performance and accessibility",
+                  "id": "319.55bd8a30d13f11e89cd6b346a4103040",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "-31.5": {
+          "title": "#AUTOMATIZATION",
+          "id": "315.38162d80cc8e11e8be8d2d25bf573242",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              285.875,
+              88.24999999999909,
+              28
+            ],
+            "collapsed": true
+          },
           "ideas": {
             "1": {
-              "title": "Visualization",
-              "id": "41.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Katalon studio",
+              "id": "223.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "Free automation testing solution",
+                  "id": "224.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.katalon.com/",
+                  "id": "239.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Zapier",
+              "id": "187.c8b5e4e0837b11e88bb0c7a40504bfca",
+              "ideas": {
+                "1": {
+                  "title": "Automate workflows",
+                  "id": "188.c8b5e4e0837b11e88bb0c7a40504bfca",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://zapier.com/",
+                  "id": "237.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "12.75": {
+          "title": "#TESTING",
+          "id": "310.38162d80cc8e11e8be8d2d25bf573242",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              243.87499999999955,
+              116.37499999999909,
+              31
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Apiary",
+              "id": "42.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "API mock testing",
+                  "id": "43.57dac47068be11e880952d958924da34",
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://apiary.io/",
+                  "id": "235.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "BrowserStack",
+              "id": "199.7295b080890311e8b3d9c9a885697982",
+              "ideas": {
+                "1": {
+                  "title": "Cross - browser web and app test platform",
+                  "id": "200.7295b080890311e8b3d9c9a885697982",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.browserstack.com/",
+                  "id": "238.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "Espresso",
+              "id": "250.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "Android UI testing",
+                  "id": "251.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://developer.android.com/training/testing/espresso/",
+                  "id": "261.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "4": {
+              "title": "TestBuddy",
+              "id": "197.7295b080890311e8b3d9c9a885697982",
+              "ideas": {
+                "1": {
+                  "title": "Exploratory testing buddy",
+                  "id": "198.7295b080890311e8b3d9c9a885697982",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://testbuddy.co/",
+                  "id": "259.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "5": {
+              "title": "Postman",
+              "id": "45.57dac47068be11e880952d958924da34",
+              "ideas": {
+                "1": {
+                  "title": "API calls",
+                  "id": "46.57dac47068be11e880952d958924da34",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.getpostman.com/",
+                  "id": "256.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
         "-35": {
-          "title": "Postman",
-          "id": "45.57dac47068be11e880952d958924da34",
+          "title": "#ACCESSIBILITY",
+          "id": "355.dab06190e42711e8bb4ef1cecde25412",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              187.6875000000001,
+              515.6249999999993,
+              38
+            ],
+            "collapsed": true
+          },
           "ideas": {
             "1": {
-              "title": "API calls",
-              "id": "46.57dac47068be11e880952d958924da34",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Pa11y",
+              "id": "356.dab06190e42711e8bb4ef1cecde25412",
+              "ideas": {
+                "1": {
+                  "title": "Automated accessibility testing pal ",
+                  "id": "357.dab06190e42711e8bb4ef1cecde25412",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://pa11y.org/",
+                  "id": "360.dab06190e42711e8bb4ef1cecde25412",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
               }
             }
@@ -367,163 +1042,733 @@
       "id": "50.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -92,
-          -146,
+          105,
+          -419,
           1
-        ]
+        ],
+        "style": {
+          "fontMultiplier": 1.5
+        }
       },
       "ideas": {
-        "1": {
-          "title": "Awwwards checklist",
-          "id": "51.596e0c60697311e8b0b12b949162e6ed",
-          "ideas": {
-            "1": {
-              "title": "Design oriented website reward criterias",
-              "id": "54.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          },
+        "76": {
+          "title": "#VERSION CONTROL (GIT)",
+          "id": "320.55bd8a30d13f11e89cd6b346a4103040",
           "attr": {
-            "position": [
-              154.6093749999991,
-              -84.79453125000055,
-              6
-            ]
-          }
-        },
-        "11": {
-          "title": "Sitebulb",
-          "id": "56.596e0c60697311e8b0b12b949162e6ed",
-          "attr": {
-            "position": [
-              111,
-              61,
-              1
-            ]
+            "style": {
+              "fontMultiplier": 1.5,
+              "background": "#000080"
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
-              "title": "Website structure visualization and much more",
-              "id": "57.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "Sublime Merge",
+              "id": "281.472f6850c23311e8ba32e1f1c77c1688",
+              "ideas": {
+                "1": {
+                  "title": "The professional diff & merge tool for Sublime Text",
+                  "id": "282.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.sublimerge.com/",
+                  "id": "283.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
-        "21": {
-          "title": "MindMup :)",
-          "id": "59.596e0c60697311e8b0b12b949162e6ed",
+        "83.5": {
+          "title": "#EDITORS (NOTES)",
+          "id": "321.55bd8a30d13f11e89cd6b346a4103040",
           "attr": {
+            "style": {
+              "fontMultiplier": 1.5,
+              "background": "#000080"
+            },
             "position": [
-              107,
-              144,
-              2
+              232.90624999999773,
+              149.89062499999886,
+              20
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Sublime Text",
+              "id": "201.7295b080890311e8b3d9c9a885697982",
+              "ideas": {
+                "1": {
+                  "title": "A sophisticated text editor for code, markup and prose",
+                  "id": "202.7295b080890311e8b3d9c9a885697982",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://www.sublimetext.com/",
+                  "id": "279.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "TestNote",
+              "id": "61.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Notes for testers",
+                  "id": "62.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://testnote.io/",
+                  "id": "288.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "87.25": {
+          "title": "#PRESENTATION / VISUALIZATION",
+          "id": "322.55bd8a30d13f11e89cd6b346a4103040",
+          "attr": {
+            "style": {
+              "fontMultiplier": 1.5,
+              "background": "#000080",
+              "width": 172.562
+            },
+            "position": [
+              197.74999999999818,
+              261.21874999999886,
+              19
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "gource.io",
+              "id": "212.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "A software version control visualization tool",
+                  "id": "213.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://gource.io/",
+                  "id": "276.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Sitebulb",
+              "id": "56.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Website structure visualization and much more",
+                  "id": "57.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://sitebulb.com/",
+                  "id": "286.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "draw.io",
+              "id": "116.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Diagram modeling",
+                  "id": "117.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.draw.io/",
+                  "id": "284.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "4": {
+              "title": "MindMup :)",
+              "id": "59.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Mind map",
+                  "id": "60.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.mindmup.com/",
+                  "id": "287.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "-5.5": {
+          "title": "#ACCESSORIES",
+          "id": "323.55bd8a30d13f11e89cd6b346a4103040",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              358.5625,
+              139.74999999999977,
+              28
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Awwwards checklist",
+              "id": "51.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Design oriented website reward criterias",
+                  "id": "54.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.awwwards.com/how-to-win-the-mobile-excellence-award-checklist.html",
+                  "id": "285.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Time Out",
+              "id": "209.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "You deserve a break software :)",
+                  "id": "210.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.dejal.com/timeout/",
+                  "id": "277.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "LICEcap",
+              "id": "205.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "Simple animated screen captures",
+                  "id": "206.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "position": [
+                      54,
+                      -93,
+                      1
+                    ],
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.cockos.com/licecap/",
+                  "id": "278.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "4": {
+              "title": "Screaming Frog SEO Spider",
+              "id": "12.6ff2071067ee11e897719d9683d39eef",
+              "ideas": {
+                "1": {
+                  "title": "SEO",
+                  "id": "13.6ff2071067ee11e897719d9683d39eef",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.screamingfrog.co.uk/seo-spider/",
+                  "id": "243.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "89.125": {
+          "title": "#BROWSERS",
+          "id": "324.55bd8a30d13f11e89cd6b346a4103040",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "position": [
+              197.74999999999818,
+              380.35937499999864,
+              21
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Ghost browser",
+              "id": "63.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Season testing browser",
+                  "id": "64.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://ghostbrowser.com/",
+                  "id": "289.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "79.75": {
+          "title": "#MACROS / HOTKEYS",
+          "id": "325.55bd8a30d13f11e89cd6b346a4103040",
+          "attr": {
+            "style": {
+              "fontMultiplier": 1.5,
+              "background": "#000080"
+            },
+            "collapsed": true,
+            "position": [
+              395.0156249999977,
+              -27.84375000000091,
+              18
             ]
           },
           "ideas": {
             "1": {
-              "title": "Mind map",
-              "id": "60.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "AutoIt / Pulover's macro creator / AutoHotkey",
+              "id": "65.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Hotkey automatization",
+                  "id": "66.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://www.autoitscript.com/site/autoit/",
+                  "id": "290.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "https://www.macrocreator.com/",
+                  "id": "291.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "https://autohotkey.com/",
+                  "id": "292.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
-        "31": {
-          "title": "TestNote",
-          "id": "61.596e0c60697311e8b0b12b949162e6ed",
+        "-2.75": {
+          "title": "#BROWSER ADD-ONS",
+          "id": "328.55bd8a30d13f11e89cd6b346a4103040",
           "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
             "position": [
-              116,
-              225,
-              3
+              238.04687500000182,
+              -209.4843750000008,
+              23
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "linkclump",
+              "id": "218.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "Google chrome extension that allows the user to open multiple links at once.",
+                  "id": "219.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en",
+                  "id": "272.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Ditto clipboard manager",
+              "id": "216.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "It saves each item placed on the clipboard allowing you access to any of those items at a later time",
+                  "id": "217.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://ditto-cp.sourceforge.io/",
+                  "id": "274.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "Bug magnet / Form filler / EditThisCookie / SelectorGadget",
+              "id": "68.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "Browser add-ons for speeding up process of testing",
+                  "id": "69.596e0c60697311e8b0b12b949162e6ed",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://bugmagnet.org/",
+                  "id": "293.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en",
+                  "id": "294.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en",
+                  "id": "295.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "https://selectorgadget.com/",
+                  "id": "296.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "-4.125": {
+          "title": "#SBTM (Session-Based Test Management)",
+          "id": "327.55bd8a30d13f11e89cd6b346a4103040",
+          "attr": {
+            "style": {
+              "background": "#000080",
+              "fontMultiplier": 1.5
+            },
+            "collapsed": true,
+            "position": [
+              380.62500000000136,
+              -63.00000000000091,
+              24
             ]
           },
           "ideas": {
             "1": {
-              "title": "Notes for testers",
-              "id": "62.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "iTester app + Google Drive",
+              "id": "268.800af840bcc211e8a9b909df600d1217",
+              "ideas": {
+                "1": {
+                  "title": "SBTM testing",
+                  "id": "269.800af840bcc211e8a9b909df600d1217",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://altom.com/itester#iTester",
+                  "id": "270.800af840bcc211e8a9b909df600d1217",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Rapid Reporter",
+              "id": "214.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "Note taking application that aids in the reporting process of SBTM – Session Based Test Managements",
+                  "id": "215.622fedc0bcb911e8ab361dd499b37049",
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "http://testing.gershon.info/reporter/",
+                  "id": "275.472f6850c23311e8ba32e1f1c77c1688",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
         },
-        "41": {
-          "title": "Ghost browser",
-          "id": "63.596e0c60697311e8b0b12b949162e6ed",
-          "ideas": {
-            "1": {
-              "title": "Season testing browser",
-              "id": "64.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          }
-        },
-        "51": {
-          "title": "AutoIt / Pulover's macro creator / AutoHotkey",
-          "id": "65.596e0c60697311e8b0b12b949162e6ed",
-          "ideas": {
-            "1": {
-              "title": "Hotkey automatization",
-              "id": "66.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          }
-        },
-        "61": {
-          "title": "Bug magnet / Form filler",
-          "id": "68.596e0c60697311e8b0b12b949162e6ed",
-          "ideas": {
-            "1": {
-              "title": "Browser add-ons",
-              "id": "69.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
-                }
-              }
-            }
-          }
-        },
-        "0.5": {
-          "title": "draw.io",
-          "id": "116.596e0c60697311e8b0b12b949162e6ed",
+        "99.125": {
+          "title": "#SHELL",
+          "id": "326.55bd8a30d13f11e89cd6b346a4103040",
           "attr": {
+            "style": {
+              "fontMultiplier": 1.5,
+              "background": "#000080"
+            },
+            "collapsed": true,
             "position": [
-              167.1093749999991,
-              -179.79453125000043,
-              5
+              40.5625,
+              438.1874999999998,
+              27
             ]
           },
           "ideas": {
             "1": {
-              "title": "Diagram modeling",
-              "id": "117.596e0c60697311e8b0b12b949162e6ed",
-              "attr": {
-                "style": {
-                  "background": "#008080"
+              "title": "explainshell.com",
+              "id": "262.800af840bcc211e8a9b909df600d1217",
+              "ideas": {
+                "1": {
+                  "title": "Docs for shell script lang.",
+                  "id": "264.800af840bcc211e8a9b909df600d1217",
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://explainshell.com/",
+                  "id": "267.800af840bcc211e8a9b909df600d1217",
+                  "attr": {
+                    "style": {
+                      "background": "#FFFF00"
+                    }
+                  }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
@@ -535,8 +1780,8 @@
       "id": "70.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          306,
-          -901,
+          -107,
+          -1034,
           1
         ],
         "style": {
@@ -550,10 +1795,14 @@
       "id": "75.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -79,
-          614,
+          -3,
+          498,
           1
-        ]
+        ],
+        "style": {
+          "fontMultiplier": 1.5
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -561,9 +1810,9 @@
           "id": "76.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              166.79687499999932,
-              -68.33750000000032,
-              1
+              210.12890624999864,
+              -80.10937500000205,
+              3
             ],
             "style": {
               "background": "#000080"
@@ -701,9 +1950,9 @@
           "id": "89.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              182.4999999999991,
-              299.396874999999,
-              2
+              229.5625,
+              162.56249999999955,
+              4
             ],
             "style": {
               "background": "#000080"
@@ -744,21 +1993,26 @@
       "id": "96.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -449,
-          535,
+          -113,
+          212,
           1
-        ]
+        ],
+        "style": {
+          "fontMultiplier": 1.5
+        },
+        "collapsed": true
       },
       "ideas": {
-        "-10": {
+        "10": {
           "title": "Log and report collection is then structured via visualization tool => monitoring",
           "id": "97.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              292.39062500000045,
-              33.705468749998545,
+              263.4062499999991,
+              152.4648437499991,
               1
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -778,7 +2032,8 @@
               "attr": {
                 "style": {
                   "background": "#008000"
-                }
+                },
+                "collapsed": true
               }
             }
           }
@@ -790,38 +2045,40 @@
       "id": "100.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -493,
-          1010,
+          -357,
+          1206,
           1
         ],
         "style": {
-          "fontMultiplier": 1.25,
+          "fontMultiplier": 1.5,
           "background": "#333399",
           "width": 298.5
         }
-      }
+      },
+      "ideas": {}
     },
     "7": {
       "title": "Project/ product",
       "id": "101.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -922,
-          1192,
+          -837,
+          1441,
           1
         ],
         "style": {
           "background": "#FFCC00"
         }
-      }
+      },
+      "ideas": {}
     },
     "8": {
       "title": "Connect tools",
       "id": "102.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -697,
-          1160,
+          -564,
+          1446,
           1
         ],
         "style": {
@@ -834,11 +2091,12 @@
           "id": "103.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              105.35937499999977,
-              115.14687499999832,
+              186.24999999999864,
+              24.74999999999727,
               1
             ]
-          }
+          },
+          "ideas": {}
         }
       }
     },
@@ -847,22 +2105,23 @@
       "id": "111.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -482,
-          1098,
+          -277,
+          1311,
           1
         ],
         "style": {
-          "background": "#FFFF00"
+          "background": "#FFFF99"
         }
-      }
+      },
+      "ideas": {}
     },
     "10": {
       "title": "Observe and update product / tools / documentation",
       "id": "113.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          -240.7617187500009,
-          1145.9482421874968,
+          -22,
+          1421,
           1
         ],
         "style": {
@@ -876,8 +2135,8 @@
           "id": "115.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              190.23828124999886,
-              122.44824218749682,
+              253.74999999999818,
+              82.24999999999727,
               1
             ]
           }
@@ -889,8 +2148,8 @@
       "id": "114.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          56,
-          1138,
+          343,
+          1410,
           1
         ],
         "style": {
@@ -903,10 +2162,13 @@
       "id": "119.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "position": [
-          754,
-          -111,
+          678,
+          -279,
           1
-        ]
+        ],
+        "style": {
+          "fontMultiplier": 1.5
+        }
       },
       "ideas": {
         "1": {
@@ -914,10 +2176,14 @@
           "id": "121.596e0c60697311e8b0b12b949162e6ed",
           "attr": {
             "position": [
-              563.5576171874973,
-              -55.55297851562682,
-              9
-            ]
+              199.16406249999727,
+              -33.25781250000102,
+              11
+            ],
+            "style": {
+              "background": "#CCFFFF"
+            },
+            "collapsed": true
           },
           "ideas": {
             "3": {
@@ -931,7 +2197,8 @@
                   224.24999999999955,
                   -66.50000000000011,
                   3
-                ]
+                ],
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -963,7 +2230,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -999,7 +2267,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -1007,7 +2276,7 @@
                   "id": "153.aa67cb206a3511e88af9add84c408854"
                 },
                 "2": {
-                  "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tDefault credentials\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+                  "title": "Default credentials",
                   "id": "154.aa67cb206a3511e88af9add84c408854"
                 },
                 "3": {
@@ -1019,7 +2288,7 @@
                   "id": "156.aa67cb206a3511e88af9add84c408854"
                 },
                 "5": {
-                  "title": "Don’t just copy paste",
+                  "title": "Don't just copy paste",
                   "id": "157.aa67cb206a3511e88af9add84c408854"
                 }
               }
@@ -1035,7 +2304,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -1068,7 +2338,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -1105,7 +2376,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -1128,7 +2400,8 @@
               "attr": {
                 "style": {
                   "background": "#333399"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -1146,6 +2419,24 @@
                 "4": {
                   "title": "\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tWebGoat & WebWolf project\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
                   "id": "181.aa67cb206a3511e88af9add84c408854"
+                },
+                "5": {
+                  "title": "OverTheWire; games for practice of security concepts",
+                  "id": "300.6cf24680c24111e8afa7713a71b7307a",
+                  "ideas": {
+                    "1": {
+                      "title": "http://overthewire.org/wargames/",
+                      "id": "301.6cf24680c24111e8afa7713a71b7307a",
+                      "attr": {
+                        "style": {
+                          "background": "#FF99CC"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
                 }
               }
             },
@@ -1179,7 +2470,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               }
             },
             "2.75": {
@@ -1193,7 +2485,8 @@
                 ],
                 "style": {
                   "background": "#800000"
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -1233,12 +2526,20 @@
               200.24999999999955,
               92.99999999999989,
               8
-            ]
+            ],
+            "style": {
+              "background": "#CCFFFF"
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
               "title": "https://docs.google.com/document/d/1zLeyM5vm1vYgZ9oLAfhtTgQSZtUv8gHoFsKUj-OTOtk/edit",
               "id": "125.596e0c60697311e8b0b12b949162e6ed"
+            },
+            "2": {
+              "title": "These are project documents from our internal processes",
+              "id": "358.dab06190e42711e8bb4ef1cecde25412"
             }
           }
         },
@@ -1250,12 +2551,48 @@
               188.99999999999955,
               182.99999999999977,
               7
-            ]
+            ],
+            "style": {
+              "background": "#CCFFFF"
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
-              "title": "Smart contracts and TODO",
-              "id": "127.596e0c60697311e8b0b12b949162e6ed"
+              "title": "Learn about this technology through play :)",
+              "id": "127.596e0c60697311e8b0b12b949162e6ed",
+              "ideas": {
+                "1": {
+                  "title": "https://capturetheether.com/",
+                  "id": "302.6cf24680c24111e8afa7713a71b7307a",
+                  "attr": {
+                    "style": {
+                      "background": "#FF99CC"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "https://cryptozombies.io/",
+                  "id": "303.6cf24680c24111e8afa7713a71b7307a",
+                  "attr": {
+                    "style": {
+                      "background": "#FF99CC"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "https://ethernaut.zeppelin.solutions/",
+                  "id": "304.6cf24680c24111e8afa7713a71b7307a",
+                  "attr": {
+                    "style": {
+                      "background": "#FF99CC"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
             }
           }
         },
@@ -1267,7 +2604,11 @@
               113.99999999999955,
               272.9999999999998,
               6
-            ]
+            ],
+            "style": {
+              "background": "#CCFFFF"
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -1275,6 +2616,165 @@
               "id": "129.596e0c60697311e8b0b12b949162e6ed"
             }
           }
+        },
+        "0.5": {
+          "title": "Heuristic Test Strategy sheet",
+          "id": "225.622fedc0bcb911e8ab361dd499b37049",
+          "attr": {
+            "position": [
+              78,
+              -157,
+              10
+            ],
+            "style": {
+              "background": "#CCFFFF"
+            },
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "My collection of heuristic sheets that I found on web ",
+              "id": "226.622fedc0bcb911e8ab361dd499b37049",
+              "ideas": {
+                "1": {
+                  "title": "https://drive.google.com/drive/folders/17UEPM1BGSajxAr9wdr1hEY86E4plym-F?usp=sharing",
+                  "id": "227.622fedc0bcb911e8ab361dd499b37049"
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "title": "Simple new project flow example:",
+      "attr": {
+        "style": {
+          "fontMultiplier": 1.5,
+          "background": "#333399",
+          "width": 298.5
+        },
+        "position": [
+          -360,
+          1585,
+          1
+        ]
+      },
+      "id": "329.54524320e29211e8b2e6b74deb1f6244"
+    },
+    "14": {
+      "title": "www.newWebsite.com",
+      "attr": {
+        "style": {
+          "background": "#FFCC00"
+        },
+        "position": [
+          -790,
+          1762,
+          1
+        ]
+      },
+      "id": "330.54524320e29211e8b2e6b74deb1f6244",
+      "ideas": {}
+    },
+    "15": {
+      "title": "sitespeed.io + Grafana",
+      "attr": {
+        "style": {
+          "background": "#FFCC00"
+        },
+        "position": [
+          -540,
+          1761,
+          1
+        ]
+      },
+      "id": "331.54524320e29211e8b2e6b74deb1f6244",
+      "ideas": {
+        "31": {
+          "title": "sitespeed.io.simpleUse.md file",
+          "id": "335.54524320e29211e8b2e6b74deb1f6244",
+          "attr": {
+            "position": [
+              27.249999999998863,
+              103.49999999999727,
+              1
+            ]
+          }
+        },
+        "36": {
+          "title": "Grafana.simpleUse.md file",
+          "id": "336.54524320e29211e8b2e6b74deb1f6244"
+        },
+        "41": {
+          "title": "sitespeed.io/Grafana.additionalUse.md file",
+          "id": "337.54524320e29211e8b2e6b74deb1f6244",
+          "attr": {
+            "position": [
+              130.99999999999886,
+              242.24999999999727,
+              2
+            ]
+          }
+        }
+      }
+    },
+    "16": {
+      "title": "TimeOut + TestNote",
+      "attr": {
+        "style": {
+          "background": "#FFFF99"
+        },
+        "position": [
+          -315,
+          1698,
+          1
+        ]
+      },
+      "id": "339.54524320e29211e8b2e6b74deb1f6244",
+      "ideas": {}
+    },
+    "17": {
+      "title": "Check if there are any new major updates on any of this mentioned tools  and if needed update 'local' documentaion",
+      "id": "348.54524320e29211e8b2e6b74deb1f6244",
+      "attr": {
+        "position": [
+          32,
+          1732,
+          1
+        ],
+        "style": {
+          "background": "#FFCC00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Check Grafana for visualized sitespeed.io report data",
+          "id": "351.54524320e29211e8b2e6b74deb1f6244",
+          "attr": {
+            "position": [
+              120.49999999999818,
+              177.74999999999727,
+              1
+            ]
+          }
+        }
+      }
+    },
+    "18": {
+      "title": "New \"peak\" in Grafana's graph -> go check sitespeed.io reports for more details and so on :)",
+      "id": "354.54524320e29211e8b2e6b74deb1f6244",
+      "attr": {
+        "position": [
+          368,
+          1706,
+          1
+        ],
+        "style": {
+          "background": "#FFCC00"
         }
       }
     }
@@ -1295,17 +2795,6 @@
     {
       "ideaIdFrom": "74.596e0c60697311e8b0b12b949162e6ed",
       "ideaIdTo": "75.596e0c60697311e8b0b12b949162e6ed",
-      "attr": {
-        "style": {
-          "color": "#707070",
-          "lineStyle": "solid",
-          "arrow": "to"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": "75.596e0c60697311e8b0b12b949162e6ed",
-      "ideaIdTo": "96.596e0c60697311e8b0b12b949162e6ed",
       "attr": {
         "style": {
           "color": "#707070",
@@ -1368,6 +2857,391 @@
           "arrow": "to"
         }
       }
+    },
+    {
+      "ideaIdFrom": 1,
+      "ideaIdTo": "96.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "75.596e0c60697311e8b0b12b949162e6ed",
+      "ideaIdTo": "96.596e0c60697311e8b0b12b949162e6ed",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "330.54524320e29211e8b2e6b74deb1f6244",
+      "ideaIdTo": "331.54524320e29211e8b2e6b74deb1f6244",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "331.54524320e29211e8b2e6b74deb1f6244",
+      "ideaIdTo": "339.54524320e29211e8b2e6b74deb1f6244",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "339.54524320e29211e8b2e6b74deb1f6244",
+      "ideaIdTo": "348.54524320e29211e8b2e6b74deb1f6244",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "348.54524320e29211e8b2e6b74deb1f6244",
+      "ideaIdTo": "354.54524320e29211e8b2e6b74deb1f6244",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
     }
-  ]
+  ],
+  "attr": {
+    "previous-atlas-export": {
+      "publishedTimestamp": 1541772359943,
+      "title": "QA Fortress",
+      "description": "MindMup mind map: QA Fortress",
+      "slug": "qa_fortress",
+      "gaClientCode": false
+    },
+    "theme": "default",
+    "progress-statuses": {
+      "not-started": {
+        "description": "Not Started",
+        "priority": 1,
+        "icon": {
+          "height": 64,
+          "width": 64,
+          "position": "left",
+          "url": "/assets/progress/testing/3d/not-started.png"
+        }
+      },
+      "passing": {
+        "description": "Passed",
+        "icon": {
+          "height": 64,
+          "width": 64,
+          "position": "left",
+          "url": "/assets/progress/testing/3d/passing.png"
+        }
+      },
+      "in-progress": {
+        "description": "In Progress",
+        "priority": 2,
+        "icon": {
+          "height": 64,
+          "width": 64,
+          "position": "left",
+          "url": "/assets/progress/testing/3d/in-progress.png"
+        }
+      },
+      "failure": {
+        "description": "Failed",
+        "priority": 999,
+        "icon": {
+          "height": 64,
+          "width": 64,
+          "position": "left",
+          "url": "/assets/progress/testing/3d/failure.png"
+        }
+      }
+    },
+    "storyboards": [
+      "Storyboard 1"
+    ]
+  },
+  "theme": {
+    "name": "MindMup Default",
+    "node": [
+      {
+        "name": "default",
+        "cornerRadius": 10,
+        "backgroundColor": "#E0E0E0",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#707070",
+            "width": 1
+          }
+        },
+        "shadow": [
+          {
+            "color": "#070707",
+            "opacity": 0.4,
+            "offset": {
+              "width": 2,
+              "height": 2
+            },
+            "radius": 2
+          }
+        ],
+        "text": {
+          "margin": 5,
+          "alignment": "center",
+          "maxWidth": 146,
+          "color": "#4F4F4F",
+          "lightColor": "#EEEEEE",
+          "darkColor": "#000000",
+          "font": {
+            "lineSpacing": 2.5,
+            "lineSpacingPx": 3.25,
+            "size": 9,
+            "sizePx": 12,
+            "weight": "bold"
+          }
+        },
+        "connections": {
+          "default": {
+            "h": "center",
+            "v": "center"
+          },
+          "from": {
+            "horizontal": {
+              "h": "nearest-inset",
+              "v": "center"
+            }
+          },
+          "to": {
+            "h": "nearest",
+            "v": "center"
+          }
+        },
+        "decorations": {
+          "height": 20,
+          "edge": "top",
+          "overlap": true,
+          "position": "end"
+        }
+      },
+      {
+        "name": "level_1",
+        "backgroundColor": "#22AAE0"
+      },
+      {
+        "name": "activated",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#22AAE0",
+            "width": 3,
+            "style": "dotted"
+          }
+        }
+      },
+      {
+        "name": "level_1.activated",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#EEEEEE",
+            "width": 3,
+            "style": "dotted"
+          }
+        }
+      },
+      {
+        "name": "selected",
+        "shadow": [
+          {
+            "color": "#000000",
+            "opacity": 0.9,
+            "offset": {
+              "width": 2,
+              "height": 2
+            },
+            "radius": 2
+          }
+        ]
+      },
+      {
+        "name": "collapsed",
+        "shadow": [
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 1
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 3
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 4
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 6
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 7
+            },
+            "radius": 0
+          }
+        ]
+      },
+      {
+        "name": "collapsed.selected",
+        "shadow": [
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 1
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 3
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 6
+            },
+            "radius": 0
+          },
+          {
+            "color": "#555555",
+            "offset": {
+              "width": 0,
+              "height": 7
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 10
+            },
+            "radius": 0
+          },
+          {
+            "color": "#333333",
+            "offset": {
+              "width": 0,
+              "height": 11
+            },
+            "radius": 0
+          }
+        ]
+      }
+    ],
+    "connector": {
+      "default": {
+        "type": "quadratic",
+        "controlPoint": {
+          "above": {
+            "width": 0,
+            "height": 0.75
+          },
+          "below": {
+            "width": 0,
+            "height": 0.75
+          },
+          "horizontal": {
+            "width": 0,
+            "height": 0
+          }
+        },
+        "label": {
+          "position": {
+            "ratio": 0.5
+          },
+          "backgroundColor": "transparent",
+          "borderColor": "transparent",
+          "text": {
+            "color": "#4F4F4F",
+            "font": {
+              "size": 9,
+              "sizePx": 12,
+              "weight": "normal"
+            }
+          }
+        },
+        "line": {
+          "color": "#707070",
+          "width": 1
+        }
+      }
+    },
+    "link": {
+      "default": {
+        "line": {
+          "color": "red",
+          "lineStyle": "dashed",
+          "width": 1
+        },
+        "label": {
+          "position": {
+            "ratio": 0.5
+          },
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#FFFFFF",
+          "text": {
+            "color": "#4F4F4F",
+            "font": {
+              "size": 9,
+              "sizePx": 12,
+              "weight": "normal"
+            }
+          }
+        }
+      }
+    }
+  }
 }
