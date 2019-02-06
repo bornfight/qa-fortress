@@ -2,6 +2,8 @@
 
 Idea of Quality Assurance Fortress is to set (potentially) automated, open-source type structure of testing tools covered with up to date documentation.
 
+![](qa_fortress_icon.png)
+
 ***Here are some links:***
 
 * Initial papers - [doc file](https://docs.google.com/document/d/1xOxVAY6QLKMddnGBApYQdoiHpAf2g4mUwWk3Ibrwkpg/edit?usp=sharing) (Here is a preview of all my note-taking's while working, which are being later on implemented into QA Fortress project with note about each action inside [changelog.md](https://github.com/degordian/qa-fortress/blob/master/changelog.md) file)
